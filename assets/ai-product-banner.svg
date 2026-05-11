@@ -1,0 +1,69 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nikhil Shukla AI Full Stack Developer banner</title>
+  <desc id="desc">Dark professional banner with AI network, product interface panels, and developer branding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="210" y1="70" x2="1120" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.45" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#334155" stroke-opacity="0.8" stroke-width="2"/>
+
+  <g opacity="0.18">
+    <path d="M0 300C180 230 270 260 430 198C620 124 760 104 930 164C1050 206 1120 212 1200 184" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M0 88C160 142 340 78 498 118C730 176 792 238 1200 92" stroke="#818cf8" stroke-width="2"/>
+    <path d="M96 0V360M192 0V360M288 0V360M384 0V360M480 0V360M576 0V360M672 0V360M768 0V360M864 0V360M960 0V360M1056 0V360M1152 0V360" stroke="#94a3b8" stroke-width="1"/>
+    <path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200" stroke="#94a3b8" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.9">
+    <circle cx="1000" cy="96" r="4" fill="#38bdf8"/>
+    <circle cx="1070" cy="160" r="4" fill="#818cf8"/>
+    <circle cx="1016" cy="232" r="4" fill="#22c55e"/>
+    <circle cx="900" cy="210" r="4" fill="#38bdf8"/>
+    <circle cx="880" cy="118" r="4" fill="#818cf8"/>
+    <path d="M1000 96L1070 160L1016 232L900 210L880 118L1000 96ZM880 118L1016 232M1070 160L900 210" stroke="url(#line)" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(720 72)">
+    <rect x="0" y="0" width="310" height="210" rx="18" fill="#020617" stroke="#334155" stroke-width="2"/>
+    <rect x="24" y="24" width="96" height="12" rx="6" fill="#38bdf8"/>
+    <rect x="24" y="54" width="248" height="10" rx="5" fill="#475569"/>
+    <rect x="24" y="76" width="214" height="10" rx="5" fill="#334155"/>
+    <rect x="24" y="112" width="118" height="52" rx="12" fill="#0f172a" stroke="#1e293b"/>
+    <rect x="162" y="112" width="110" height="52" rx="12" fill="#0f172a" stroke="#1e293b"/>
+    <path d="M44 142L76 128L112 146" stroke="#38bdf8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M184 148L208 128L250 150" stroke="#22c55e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="184" width="248" height="8" rx="4" fill="#1e293b"/>
+  </g>
+
+  <g transform="translate(82 68)">
+    <rect x="0" y="0" width="520" height="224" rx="20" fill="#020617" fill-opacity="0.72" stroke="#334155" stroke-width="2"/>
+    <text x="34" y="64" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">Nikhil Shukla</text>
+    <text x="34" y="106" fill="#38bdf8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">AI Full-Stack Developer</text>
+    <text x="34" y="148" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">MERN + FastAPI + LangChain + RAG + LLM Products</text>
+    <g transform="translate(34 174)">
+      <rect width="118" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.6"/>
+      <text x="59" y="19" text-anchor="middle" fill="#e0f2fe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Hackathons</text>
+      <rect x="134" width="104" height="28" rx="14" fill="#0f172a" stroke="#818cf8" stroke-opacity="0.6"/>
+      <text x="186" y="19" text-anchor="middle" fill="#eef2ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">AI Products</text>
+      <rect x="254" width="96" height="28" rx="14" fill="#0f172a" stroke="#22c55e" stroke-opacity="0.6"/>
+      <text x="302" y="19" text-anchor="middle" fill="#dcfce7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Open Source</text>
+    </g>
+  </g>
+</svg>
