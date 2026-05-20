@@ -11,7 +11,7 @@
 
 - I build AI products with **React, Node.js, FastAPI, MongoDB, LangChain and RAG**
 - Focused on **Agentic AI workflows, LLM apps, vector search and AI APIs**
-- Hackathon track: **AMUHACK 2nd Place | MumbaiHacks Grand Finalist | 5x National Finalist**
+- Hackathon track: **AMUHACK 2nd Place | MumbaiHacks Grand Finalist | 7x National Finalist**
 - Best builds: **CampusNest, Finova_AI, Bridge-AI, LLM Projects**
 - Ask me about **Generative AI, RAG, MERN, FastAPI, OpenAI and HuggingFace**
 - Portfolio: [nikhil-ai-portfolio.vercel.app](https://nikhil-ai-portfolio.vercel.app)
