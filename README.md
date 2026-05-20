@@ -12,16 +12,22 @@
 - I build AI products with **React, Node.js, FastAPI, MongoDB, LangChain and RAG**
 - Focused on **Agentic AI workflows, LLM apps, vector search and AI APIs**
 - Hackathon track: **AMUHACK 2nd Place | MumbaiHacks Grand Finalist | 5x National Finalist**
-- Best builds: **Bridge-AI, LLM Projects, CareKaro, TechTrendyDeals**
+- Best builds: **CampusNest, Finova_AI, Bridge-AI, LLM Projects**
 - Ask me about **Generative AI, RAG, MERN, FastAPI, OpenAI and HuggingFace**
 - Portfolio: [nikhil-ai-portfolio.vercel.app](https://nikhil-ai-portfolio.vercel.app)
 
 <h3 align="left">Featured AI Builds:</h3>
 <p align="left">
+  <a href="https://campusnest.online/"><img src="https://img.shields.io/badge/CampusNest-22C55E?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="CampusNest" /></a>
+  <a href="https://github.com/nikhil-shukl/Finova_AI"><img src="https://img.shields.io/badge/Finova_AI-F59E0B?style=for-the-badge&logo=github&logoColor=111827" alt="Finova AI" /></a>
   <a href="https://github.com/nikhil-shukl/-Bridge-AI"><img src="https://img.shields.io/badge/Bridge--AI-38BDF8?style=for-the-badge&logo=github&logoColor=0F172A" alt="Bridge-AI" /></a>
   <a href="https://github.com/nikhil-shukl/LLM_Projects"><img src="https://img.shields.io/badge/LLM_Projects-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="LLM Projects" /></a>
-  <a href="https://github.com/nikhil-shukl/CareKaro"><img src="https://img.shields.io/badge/CareKaro-22C55E?style=for-the-badge&logo=github&logoColor=0F172A" alt="CareKaro" /></a>
-  <a href="https://github.com/nikhil-shukl/smartly-buy-frontend"><img src="https://img.shields.io/badge/TechTrendyDeals-F59E0B?style=for-the-badge&logo=github&logoColor=111827" alt="TechTrendyDeals" /></a>
+</p>
+<p align="left">
+  <b>CampusNest</b> - private college marketplace implemented for students to buy and sell old engineering products.<br>
+  <b>Finova_AI</b> - AI finance platform for news, research, portfolio insights, risk detection and smarter decisions.<br>
+  <b>Bridge-AI</b> - career readiness engine with skill extraction, role matching and AI mentor.<br>
+  <b>LLM_Projects</b> - LangChain, FAISS, OpenAI, Ollama, embeddings and retrievers.
 </p>
 
 <h3 align="left">Connect with me:</h3>
